@@ -28,22 +28,24 @@ textarea{
 
 
 #output{
-    margin: 0;
+    /* margin: 0; */
     border: 1px solid black;
     height: 20vh;
     width: 70%;
     padding: 1rem;
-    /* justify-content: center; */
-    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
     margin: auto;
     border: solid;
+    font-size: xx-large;
 
+
+    
 } 
 
 
 
 #btn-translate{
-    font-size: x-large;
+    font-size: xx-large;
     font-weight: bold;
     height: 40px;
     width: 20%;
